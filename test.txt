@@ -1,5 +1,5 @@
 test
 test2
 test3
-test mac 1234
+test mac 123478
 test PC
