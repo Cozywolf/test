@@ -2,8 +2,11 @@
 2. Keep ask for the reason of ranking
 3. Do no give direct intro, give hints and see what kinds of hints user needs to accomplish the task.
 4. Ask the reason of what user is intent to do.
-5. Ask what user will usually do.
+5. Ask what user will usually do and how the experience compare to what they do today.
 6. Ask why user do it.
 7. Ask the reason of some over high or over low score.
 8. If something unexpected happened, observe user's reaction, how theyr response, and ask about their feeling and impression.
 9. Why user know how to do it?
+10.Does the introduction help (if any)? Which part is diffult to understand or follow?
+11.In which part does the user find it instinctive.
+12.Break down the question into details, to understand where the issue starts.
