@@ -1,0 +1,9 @@
+1. Is there any thing that you think you will still feel difficult even operate for a second time?
+2. Keep ask for the reason of ranking
+3. Do no give direct intro, give hints and see what kinds of hints user needs to accomplish the task.
+4. Ask the reason of what user is intent to do.
+5. Ask what user will usually do.
+6. Ask why user do it.
+7. Ask the reason of some over high or over low score.
+8. If something unexpected happened, observe user's reaction, how theyr response, and ask about their feeling and impression.
+9. Why user know how to do it?
